@@ -17,6 +17,10 @@ GasAppInFlutter is a mobile application built using Flutter, designed to provide
 - **Sqflite**: A Flutter plugin for SQLite, which allows for local data persistence in the application.
 - **Dio**: A powerful HTTP client for Dart that is useful when making network requests to fetch or send data.
 
+## Demo
+
+If anyone wants to test the app, you can do so by following this link: [GasAppInFlutter Demo](https://appetize.io/app/b_sm5n7ydsy6s74h3exf7t7jghhe)
+
 ## Conclusion
 
 GasAppInFlutter aims to simplify the tracking of gas consumption and expenditures through an easy-to-use mobile application. By leveraging Flutter’s capabilities, it provides a seamless experience for users, along with essential features for monitoring gas usage and expenses. This project serves as a practical tool for individuals or businesses looking to manage their gas consumption more effectively.
